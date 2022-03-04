@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Work\High_Perfomance_Multiphysics_Simulation_CEM\ML-CEM\DNN\Conv_EnDe_FDTD_LSTM_PML_Object\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
